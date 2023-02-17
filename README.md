@@ -1,5 +1,6 @@
 # Automated calibration of somatosensory nerve stimulation using reinforcement learning
 
+[![DOI](https://zenodo.org/badge/521703792.svg)](https://zenodo.org/badge/latestdoi/521703792)
 
 The folder *offline simulation* contains the code to run 10 different offline simulations. The code
 is entirely commented to make it user-friendly. Choose the subject number from 1 to 10 at the top
